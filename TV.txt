@@ -865,7 +865,7 @@ CCTV5+,https://epg.pw/stream/fd949c154a0facf9abb01f395c5d7d09b44a35fd0089da56e0a
 山东教育,http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.js.chinamobile.com/PLTV/3/224/3221227580/index.m3u8
 山东教育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 山东教育,https://epg.pw/stream/497dbc858ac950752aedd19e6ab943e3752516e9a937601969741f3a51ed74b2.m3u8
-山东教育卫视,https://epg.pw/stream/e6c5a3b4a3abab17ed38ac4d29a75598163f67386dff8689c900f00616fe7842.m3u8
+山东教育,https://epg.pw/stream/e6c5a3b4a3abab17ed38ac4d29a75598163f67386dff8689c900f00616fe7842.m3u8
 山东农科,http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.m3u8
 山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
 山东少儿,http://livealone.iqilu.com/iqilu/sepdhjOF03kn.m3u8
